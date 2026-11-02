@@ -1,0 +1,6 @@
+{
+  "summary": "Comprehensive plan to diagnose and resolve authentication issues in CampusCare Lite: supporting flexible admin role recognition (app_metadata and user_metadata), seamless development demo authentication fallback when Supabase credentials are not connected, fixing onAuthStateChange sign-out race conditions, adding a Supabase SQL helper script to grant admin roles, and providing clear diagnostic guidance on the login screen.",
+  "updatedAt": "2026-11-02T13:28:38.899882493Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

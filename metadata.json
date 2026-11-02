@@ -1,0 +1,6 @@
+{
+  "name": "CampusCare Lite",
+  "description": "Campus Issue Reporting and Resolution System - Empowering students and staff to report problems and improve their college environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
